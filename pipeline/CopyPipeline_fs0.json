@@ -675,6 +675,10 @@
 				"userProperties": [],
 				"typeProperties": {
 					"notebookPath": "https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2618464814854292/1879884447224565/7529505512284689/latest.html"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks1",
+					"type": "LinkedServiceReference"
 				}
 			}
 		],
